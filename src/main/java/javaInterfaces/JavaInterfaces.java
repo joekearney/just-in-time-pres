@@ -1,4 +1,4 @@
-package javaHelloWorld;
+package javaInterfaces;
 
 // Interface describing the behaviour
 interface Helloer {

@@ -1,4 +1,4 @@
-package scalaHelloWorld
+package scalaInterfaces
 
 // describe the behaviour
 trait Helloer {
