@@ -1,7 +1,5 @@
 package scalaHelloWorld
 
-object ScalaHello {
-  def main(args: Array[String]) {
+object ScalaHelloApp extends App {
     println("hello from Scala")
-  }
 }
